@@ -1,4 +1,4 @@
-![img][logo]
+![logo][logo]
 
 [logo]: https://github.com/cyphed/merciless/blob/main/img.png
 # Merciless
