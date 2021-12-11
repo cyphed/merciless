@@ -1,3 +1,6 @@
+![img][logo]
+
+[logo]: https://github.com/cyphed/merciless/blob/main/img.png
 # Merciless
 Merciless is a python script that creates a bootsector payload for testing purposes
 # Chanelogs
